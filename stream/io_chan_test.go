@@ -1,4 +1,5 @@
-package stream
+package stream_test
+
 
 import (
 	"bytes"

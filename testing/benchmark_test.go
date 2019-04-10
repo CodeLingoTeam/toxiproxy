@@ -1,4 +1,5 @@
-package main
+package main_test
+
 
 import (
 	"io/ioutil"

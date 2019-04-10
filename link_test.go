@@ -1,4 +1,5 @@
-package toxiproxy
+package toxiproxy_test
+
 
 import (
 	"encoding/binary"

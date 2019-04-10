@@ -1,4 +1,5 @@
-package testhelper
+package testhelper_test
+
 
 import (
   "testing"
